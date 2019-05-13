@@ -101,4 +101,7 @@ footer a{
     color: #ffffff;
 }
 
-
+/* login css */
+.login-container{
+    background: url('../img/login-background.jpg') no-repeat 0 -250px;
+}
